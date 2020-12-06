@@ -35,5 +35,5 @@ Instructions to run
     
     <code> python manage.py runserver </code>
     
- 4. Go to http://localhost:8000/ in yout browser
+ 4. Go to http://localhost:8000/ in your browser
     
