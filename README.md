@@ -21,7 +21,7 @@ Instructions to run
 
 1. Make sure you have Python installed.
 
-2. Install Django
+2. Install required packages
 
    <code> pip install -r requirements.txt </code>
 
