@@ -23,7 +23,7 @@ Instructions to run
 
 2. Install Django
 
-   <code> pip install django==2.2 </code>
+   <code> pip install -r requirements.txt </code>
 
 3. Go to project directory and run the following commands:
 
