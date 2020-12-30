@@ -15,25 +15,4 @@ This application has 2 types of users
   - can see all blood samples added to the blood bank by different hospitals 
   - can request a hospital for a particular blood sample
 
-Any user can see blood samples but can only request for it when logged in
-
-Instructions to run
-
-1. Make sure you have Python installed.
-
-2. Install required packages
-
-   <code> pip install -r requirements.txt </code>
-
-3. Go to project directory and run the following commands:
-
-    <code> python manage.py makemigrations </code>
-    <br/>
-    
-    <code> python manage.py migrate </code>
-    <br/>
-    
-    <code> python manage.py runserver </code>
-    
- 4. Go to http://localhost:8000/ in your browser
-    
+Any user can see blood samples but can only request for it when logged in.
