@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
- 
+#changed admin.py
 from .models import Blood, Hospital, Receiver, Request
 
 admin.site.register(Blood)
